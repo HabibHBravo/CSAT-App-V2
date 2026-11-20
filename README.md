@@ -1,4 +1,4 @@
-# DNAPL CSAT Calculator — Version 2.3.2
+# DNAPL CSAT Calculator — Version 2
 
 Requires Python 3.10 or newer. Extract the folder, activate your environment, and run:
 
@@ -9,7 +9,7 @@ python -m streamlit run CSAT_Calculator_V2.py
 
 The Python filename remains unchanged for existing launch commands.
 
-## Changes in Version 2.3.2
+## Changes in Version 2
 
 Calculation 4 now displays the screenshot inequality directly: `sum(CTobs,i / CTS,i) >= 1`. The unknown-composition soil result column is labeled **Saturation Index** in the UI and all exported tables. Calculation values and screening rules are unchanged.
 

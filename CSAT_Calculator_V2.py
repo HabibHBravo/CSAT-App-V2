@@ -1,4 +1,4 @@
-"""Streamlit CSAT Calculator V2. Run: streamlit run CSAT_Calculator_V2_4.py
+"""Streamlit CSAT Calculator V2. Run: streamlit run CSAT_Calculator_V2.py
 
 Property defaults transcribed from the supplied CVOC_properties.png (not live RSL).
 Known composition: Calculations 5, 3, 2. Unknown composition: Calculation 4 with PURE solubility.
@@ -265,7 +265,7 @@ def filtered_table(st, frame, columns, prefix, disabled=False):
 
 def main():
     import streamlit as st
-    st.set_page_config(page_title='DNAPL CSAT Calculator V2.3.2',layout='wide')
+    st.set_page_config(page_title='DNAPL CSAT Calculator V2',layout='wide')
     st.title('DNAPL CSAT Calculator · Version 2')
     st.markdown('''<style>
     .st-key-threshold_inactive, .st-key-csat_inactive, .st-key-groundwater_inactive {
