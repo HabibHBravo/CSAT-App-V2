@@ -1,0 +1,5 @@
+location,field_id,top_depth,bottom_depth,depth_units,lab_id,cas_no,analyte,result,units,matrix
+MW-01,MW-01-GW,0,2,ft,GWLAB-01,79-01-6,TCE,1.89,mg/L,Groundwater
+MW-01,MW-01-GW,0,2,ft,GWLAB-01,127-18-4,PCE,5.12,mg/L,Groundwater
+MW-02,MW-02-GW,2,4,ft,GWLAB-02,79-01-6,TCE,0.42,mg/L,Groundwater
+MW-02,MW-02-GW,2,4,ft,GWLAB-02,127-18-4,PCE,1.28,mg/L,Groundwater

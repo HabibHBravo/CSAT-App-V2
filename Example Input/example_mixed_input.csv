@@ -1,0 +1,13 @@
+location,field_id,top_depth,bottom_depth,depth_units,lab_id,cas_no,analyte,result,units,matrix
+SB-01,SB-01-1,0,2,ft,LAB-001,79-01-6,TCE,145,mg/kg,Soil
+SB-01,SB-01-1,0,2,ft,LAB-001,127-18-4,PCE,155,mg/kg,Soil
+SB-01,SB-01-1,0,2,ft,LAB-001,,Percent moisture,20,%,Soil
+SB-01,SB-01-1,0,2,ft,LAB-001,,Dry bulk density,1.40,g/cm3,Soil
+SB-02,SB-02-1,2,4,ft,LAB-002,79-01-6,TCE,0.1,mg/kg,Soil
+SB-02,SB-02-1,2,4,ft,LAB-002,127-18-4,PCE,0.05,mg/kg,Soil
+SB-02,SB-02-1,2,4,ft,LAB-002,,Percent moisture,10,%,Soil
+SB-02,SB-02-1,2,4,ft,LAB-002,,Dry bulk density,1.50,g/cm3,Soil
+MW-01,MW-01-GW,0,2,ft,GWLAB-01,79-01-6,TCE,1.89,mg/L,Groundwater
+MW-01,MW-01-GW,0,2,ft,GWLAB-01,127-18-4,PCE,5.12,mg/L,Groundwater
+MW-02,MW-02-GW,2,4,ft,GWLAB-02,79-01-6,TCE,0.42,mg/L,Groundwater
+MW-02,MW-02-GW,2,4,ft,GWLAB-02,127-18-4,PCE,1.28,mg/L,Groundwater
